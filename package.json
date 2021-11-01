@@ -1,0 +1,22 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Param Siddharth <contact@paramsid.com> (http://www.paramsid.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv": "^5.5.3",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "graphql": "^15.7.2",
+    "graphql-request": "^3.6.1"
+  }
+}

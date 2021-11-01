@@ -1,0 +1,11 @@
+node_modules/
+.env
+contrib.txt
+*cache.json
+*.graphql
+dist/
+build/
+out/
+*cache.csv
+cache/
+tmp/
